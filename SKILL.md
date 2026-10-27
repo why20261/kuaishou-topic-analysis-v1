@@ -3,6 +3,10 @@ name: kuaishou-topic-analysis-v1
 description: 当用户需要做快手选题、快手内容选题、短视频选题策划、快手视频爆款角度拆解、内容方向规划或选题素材整理时使用。面向内容运营、品牌调研和创作者。提供快手关键词搜索、快手博主作品获取、快手视频评论获取等功能。
 license: MIT
 version: "1.1.0"
+display_name: 快手选题分析
+display_name_en: Kuaishou Topic Analysis
+description_zh: 当用户需要做快手选题、快手内容选题、短视频选题策划、快手视频爆款角度拆解、内容方向规划或选题素材整理时使用。面向内容运营、品牌调研和创作者。提供快手关键词搜索、快手博主作品获取、快手视频评论获取等功能。
+description_en: Use when users need to develop Kwai content topics, short video topic planning, dissect viral video angles on Kwai, define content direction or organize topic materials. Target users include content operators, brand researchers and creators. It provides Kwai keyword search, creator post retrieval, Kwai video comment acquisition and other functions.
 metadata:
   openclaw:
     emoji: "📷"
